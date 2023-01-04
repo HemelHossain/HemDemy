@@ -1,0 +1,11 @@
+.border-shadow{
+    box-shadow: 1px 1px 15px 0px rgba(0,0,0,0.3);
+    border-radius: 12px;
+}
+.btn-color{
+
+    background: linear-gradient(136.85deg, #FF37F2 -15.82%, #405AFF 99.57%);;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 110px;
+}

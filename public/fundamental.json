@@ -1,0 +1,26 @@
+[{  "id": 1,
+    "name": "Fundamentals",
+    "description": "Essential courses that anyone pursuing a career as a professional software engineer should take. Data structures, algorithms, design patterns, and more!"
+
+},
+{
+    "id": 2,
+    "name": "Front-end Development",
+    "description": "All the courses you need to build beautiful websites. HTML, CSS, JavaScript, React, and more! View"
+},
+{
+    "id": 3,
+    "name": "Back-end Development",
+    "description": "All the courses you need to build powerful APIs for web and mobile apps. Node, Django, ASP.NET MVC, MySQL, and more!"   
+},
+{
+    "id": 4,
+    "name": "Mobile Development",
+    "description": "All the courses you need to build professional, cross-platform mobile apps using React Native."   
+},
+{
+    "id": 5,
+    "name": "Game Development",
+    "description": "All the courses you need to build beautiful websites. HTML, CSS, JavaScript, React, and more! View"   
+}
+]
