@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-This project made by react.js [HemDemy](https://github.com/facebook/create-react-app).
+This project made by react.js [HemDemy](https://dashing-fudge-af9e83.netlify.app/).
 
 ## Available Scripts
 
-1. In this project directory i used Html, Css, React.js.
+1. In this project directory i used Html, Css, Tailwind-css, React.js.
 2. It is a programming & digital marketing teaching Website .
 3. In this website you can Learn programming marketing and many other things. It helps people  to grow their skills.
 
