@@ -1,10 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project made by react.js [HemDemy](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+1. In this project directory i used Html, Css, React.js.
+2. It is a programming & digital marketing teaching Website .
+3. In this website you can Learn programming marketing and many other things. It helps people  to grow their skills.
 
 ### `npm start`
 
